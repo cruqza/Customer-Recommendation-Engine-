@@ -1,0 +1,15 @@
+[project]
+name = "day4-recommendation-engine"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.14"
+dependencies = [
+    "pandas>=3.1.0",
+]
+
+[project.scripts]
+day4-recommendation-engine = "day4_recommendation_engine:main"
+
+[build-system]
+requires = ["uv_build>=0.12.23,<0.13.0"]
+build-backend = "uv_build"
