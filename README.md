@@ -1,4 +1,4 @@
-# Day 4 - Customer Recommendation Engine
+#  Customer Recommendation Engine
 
 Core-Python recommendation engine (no ML libraries). Uses only `csv`, `math`,
 `collections` and `pathlib`.
