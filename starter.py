@@ -1,9 +1,7 @@
 """
 Day 4 - Customer Recommendation Engine
 Squad Python Specialization - Data Science, AI & Analytics
-
 Core Python only for the engine (csv, collections, math are fine). No ML libraries.
-
 Workflow:  data/purchases.csv -> read_purchases() -> RecommendationEngine ->
            similarity / similar_customers / candidate_products / score ->
            recommend() -> recommend_all() -> export_csv() -> output/recommendations.csv
@@ -334,7 +332,7 @@ class RecommendationEngine:
         }
 
 
-def run() -> None():
+def run() -> None:
     # Build the engine, print the sanity matrix, two customers' recommendations,
     # then export everything and print a run summary.
     valid, rejected = read_purchases(DATA_PATH)

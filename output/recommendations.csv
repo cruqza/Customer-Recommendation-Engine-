@@ -1,61 +1,53 @@
-customer_id,product_id,product_name,category,score,support_count,supporters
-C101,P03,Festive Bread,Bakery,4.6439,4,C117;C109;C113;C108
-C101,P10,Pampers Size 3,Baby,1.9622,3,C117;C103;C107
-C101,P02,Brookside Milk 1L,Dairy,0.6398,3,C113;C105;C107
-C102,P05,Kimbo 1kg,Pantry,3.9197,3,C118;C106;C113
-C102,P07,Royco Mchuzi Mix,Pantry,2.5151,2,C114;C110
-C102,P10,Pampers Size 3,Baby,0.9811,3,C110;C103;C107
-C103,P12,Omo 2kg,Household,4.1005,4,C107;C111;C119;C104
-C103,P02,Brookside Milk 1L,Dairy,4.0109,4,C107;C111;C119;C105
-C103,P15,Kenchic Whole Chicken,Fresh,1.1469,2,C107;C105
-C104,P03,Festive Bread,Bakery,9.0555,4,C108;C120;C112;C116
-C104,P02,Brookside Milk 1L,Dairy,2.0838,3,C111;C119;C107
-C104,P10,Pampers Size 3,Baby,1.3455,3,C111;C107;C103
-C105,P12,Omo 2kg,Household,4.565,5,C107;C111;C119;C104;C108
-C105,P10,Pampers Size 3,Baby,2.5509,3,C107;C111;C103
-C105,P11,Johnson's Baby Lotion,Baby,2.4303,3,C107;C119;C103
-C106,P01,Kienyeji Eggs (tray),Fresh,4.8703,4,C118;C102;C114;C113
-C106,P02,Brookside Milk 1L,Dairy,2.0564,3,C105;C107;C113
-C106,P12,Omo 2kg,Household,0.5606,3,C107;C104;C108
-C107,P09,Nescafe Classic 100g,Beverages,0.7937,2,C104;C108
-C107,P13,Jik Bleach 750ml,Household,0.7937,2,C104;C108
-C107,P03,Festive Bread,Bakery,0.7925,2,C108;C117
-C108,P02,Brookside Milk 1L,Dairy,2.5996,4,C111;C119;C107;C113
-C108,P10,Pampers Size 3,Baby,1.7052,3,C111;C117;C107
-C108,P08,Ketepa Tea 250g,Beverages,0.9831,2,C109;C117
-C109,P04,Blue Band 500g,Dairy,3.6182,3,C117;C101;C113
-C109,P13,Jik Bleach 750ml,Household,3.1832,4,C112;C108;C120;C104
-C109,P09,Nescafe Classic 100g,Beverages,2.8215,4,C116;C108;C120;C104
-C110,P06,Pishori Rice 5kg,Pantry,3.5519,3,C114;C102;C118
-C110,P11,Johnson's Baby Lotion,Baby,2.4036,3,C103;C115;C107
-C110,P02,Brookside Milk 1L,Dairy,1.8645,3,C111;C107;C113
-C111,P11,Johnson's Baby Lotion,Baby,6.9451,4,C107;C119;C103;C115
-C111,P15,Kenchic Whole Chicken,Fresh,2.4373,2,C107;C105
-C111,P03,Festive Bread,Bakery,2.0,3,C108;C117;C120
-C112,P09,Nescafe Classic 100g,Beverages,6.5111,4,C108;C120;C104;C116
-C112,P12,Omo 2kg,Household,4.9055,3,C108;C120;C104
-C112,P08,Ketepa Tea 250g,Beverages,1.9297,3,C109;C117;C101
-C113,P06,Pishori Rice 5kg,Pantry,2.4036,3,C118;C102;C106
-C113,P10,Pampers Size 3,Baby,2.2425,3,C117;C110;C111
-C113,P08,Ketepa Tea 250g,Beverages,2.2398,3,C117;C101;C109
-C114,P05,Kimbo 1kg,Pantry,3.0496,3,C118;C106;C113
-C114,P10,Pampers Size 3,Baby,1.9622,3,C110;C103;C107
-C114,P15,Kenchic Whole Chicken,Fresh,0.7236,3,C106;C105;C107
-C115,P12,Omo 2kg,Household,4.1005,4,C107;C111;C119;C104
-C115,P02,Brookside Milk 1L,Dairy,4.0109,4,C107;C111;C119;C105
-C115,P15,Kenchic Whole Chicken,Fresh,1.1469,2,C107;C105
-C116,P13,Jik Bleach 750ml,Household,5.4259,4,C108;C120;C112;C104
-C116,P12,Omo 2kg,Household,3.9244,3,C108;C120;C104
-C116,P08,Ketepa Tea 250g,Beverages,1.5076,3,C109;C117;C101
-C117,P01,Kienyeji Eggs (tray),Fresh,1.3762,2,C113;C110
-C117,P02,Brookside Milk 1L,Dairy,1.3762,2,C113;C111
-C117,P11,Johnson's Baby Lotion,Baby,1.1852,2,C103;C115
-C118,P07,Royco Mchuzi Mix,Pantry,1.9206,2,C114;C110
-C118,P15,Kenchic Whole Chicken,Fresh,1.8091,3,C106;C105;C107
-C118,P02,Brookside Milk 1L,Dairy,1.2795,3,C113;C105;C107
-C119,P10,Pampers Size 3,Baby,7.2897,4,C107;C111;C103;C115
-C119,P15,Kenchic Whole Chicken,Fresh,2.4373,2,C107;C105
-C119,P09,Nescafe Classic 100g,Beverages,1.9941,3,C104;C108;C120
-C120,P02,Brookside Milk 1L,Dairy,2.5996,4,C111;C119;C107;C113
-C120,P10,Pampers Size 3,Baby,1.7052,3,C111;C117;C107
-C120,P08,Ketepa Tea 250g,Beverages,0.9831,2,C109;C117
+customer_name,rank,score,supporting_customers
+Wanjiru,1,4.000,C117;C109;C113
+Wanjiru,2,0.981,C117
+Wanjiru,3,0.320,C113
+Otieno,1,2.628,C118;C106
+Otieno,2,1.154,C114
+Otieno,3,0.452,C106
+Achieng,1,0.785,C107
+Achieng,2,0.768,C107
+Achieng,3,0.724,C107
+Kamau,1,7.000,C108;C120;C112
+Njeri,1,2.022,C107;C111
+Njeri,2,2.022,C107;C111
+Njeri,3,0.748,C107
+Mwangi,1,2.281,C118;C102
+Mwangi,2,0.480,C105
+Chebet,1,1.000,
+Chebet,2,0.714,
+Chebet,3,0.571,
+Hassan,1,0.857,
+Hassan,2,0.714,
+Hassan,3,0.714,
+Fatma,1,2.389,C117;C101
+Fatma,2,0.981,C117
+Fatma,3,0.623,C112
+Kiprop,1,2.222,C114;C102
+Kiprop,2,0.467,C103
+Akinyi,1,5.048,C107;C119;C103
+Akinyi,2,1.085,C107
+Mutua,1,3.110,C108;C120
+Mutua,2,2.963,C108;C120
+Mutua,3,0.603,C109
+Wambui,1,1.297,C117;C101
+Wambui,2,0.623,C118
+Wambui,3,0.561,C117
+Omondi,1,0.981,C110
+Omondi,2,0.905,C118
+Nekesa,1,0.785,C107
+Nekesa,2,0.768,C107
+Nekesa,3,0.724,C107
+Barasa,1,2.488,C108;C120
+Barasa,2,2.370,C108;C120
+Barasa,3,0.452,C109
+Zawadi,1,0.548,C113
+Zawadi,2,0.548,C113
+Zawadi,3,0.517,C113
+Kariuki,1,0.905,C106
+Kariuki,2,0.866,C114
+Amina,1,5.298,C107;C111;C103
+Amina,2,1.085,C107
+Juma,1,0.857,
+Juma,2,0.714,
+Juma,3,0.714,
